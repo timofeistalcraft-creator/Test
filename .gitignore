@@ -1,7 +1,1 @@
-```
-# Compiled and build artifacts
-*.o
-*.obj
-*.out
-calculator
-```
+Nothing should be ignored based on the provided file changes, as they only include source/config files (README.md) and a deleted file (readme). No build artifacts, dependencies, or temporary files are present in the changes.
